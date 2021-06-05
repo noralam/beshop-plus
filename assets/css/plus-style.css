@@ -4,7 +4,9 @@
 *
 *
 */ 
-
+a {
+    color: #f67280;
+}
 article a,
 a:hover {
     text-decoration: underline !important;
@@ -19,7 +21,7 @@ input[type="checkbox"] {
     vertical-align: middle;
 }
 h1.site-title a {
-    color: #4169e1;
+    color: #f67280;
     text-decoration: none;
     font-style: normal;
     font-weight: 900;
